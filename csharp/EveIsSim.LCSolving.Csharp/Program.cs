@@ -1,4 +1,4 @@
-﻿//using EveIsSim.LCSolving.Csharp.Solutions.CardTrack.P01Arrays101.Introduction;
+﻿using EveIsSim.LCSolving.Csharp.Solutions.CardTrack.P01Arrays101.Introduction;
 
 // Exp
-//MaxConsecutiveOnes.Run();
+MaxConsecutiveOnes.Run();
