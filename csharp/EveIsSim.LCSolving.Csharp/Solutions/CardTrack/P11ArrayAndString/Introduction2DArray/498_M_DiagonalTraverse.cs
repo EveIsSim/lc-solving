@@ -1,4 +1,4 @@
-namespace EveIsSim.LCSolving.Csharp.Solutions.CardTrack.P11ArrayAndString.IntroductionToArray;
+namespace EveIsSim.LCSolving.Csharp.Solutions.CardTrack.P11ArrayAndString.Introduction2DArray;
 
 // https://leetcode.com/problems/diagonal-traverse/description/
 
